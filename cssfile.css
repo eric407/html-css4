@@ -1,0 +1,12 @@
+.lists{
+  width:100%
+}
+
+.lists ul , .lists ol{
+  display:inline-block;
+  width:14%;
+  vertical-align:top;
+  
+}
+
+
